@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GclGC0Eqs4kpaqvZVXfl4TjwPon/2RaWp8d0MlgirF8tENCf85l8wb4GO+XxFv1WS75J12tsIMgjRuWER8KMqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\FirstWebApi.dll\\FirstWebApi.dll\\FirstWebApi.dll.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
